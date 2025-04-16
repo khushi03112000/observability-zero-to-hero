@@ -86,3 +86,7 @@
 - **Monitoring Tools**: Prometheus, Grafana, Nagios, Zabbix, PRTG.
 - **Observability Tools**: ELK Stack (Elasticsearch, Logstash, Kibana), EFK Stack (Elasticsearch, FluentBit, Kibana) Splunk, Jaeger, Zipkin, New Relic, Dynatrace, Datadog.
 
+## Real time use case of observability : 
+- **signed a sla which says to provide 99.99% availability** : So continuous monitoring, logging and tracing is required to meet the SLA objective and hence Observability is required.
+![image](https://github.com/user-attachments/assets/f5487009-d851-49a0-bc34-c146aa2d497e)
+
