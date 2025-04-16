@@ -2,9 +2,16 @@
 
 ## Metrics vs Monitoring
 
-Metrics are measurements or data points that tell you what is happening. For example, the number of steps you walk each day, your heart rate, or the temperature outside—these are all metrics.
+Metrics are measurements or data points that tell you what is happening. For example, the number of steps you walk each day, your heart rate, or the temperature outside—these are all metrics.    
+Real life example of metrics : Historical data collected to know about the health of the system.   
+![image](https://github.com/user-attachments/assets/d3a17590-6cbf-45a1-9868-579b3be6f6b6)
+
+It is all the **Raw Data** so it requires to be scrapped into a Monitoring tool which can present it in a **Dashboard** form and send **Alerts** when needed.
 
 Monitoring is the process of keeping an eye on these metrics over time to understand what’s normal, identify changes, and detect problems. It's like watching your step count daily to see if you're meeting your fitness goal or checking your heart rate to make sure it's in a healthy range.
+
+![image](https://github.com/user-attachments/assets/ba453394-a8af-47d2-a351-f4f0ef1cbb2f)
+
 
 ## 🚀 Prometheus
 - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
