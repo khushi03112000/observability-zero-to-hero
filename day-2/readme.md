@@ -13,6 +13,11 @@ Monitoring is the process of keeping an eye on these metrics over time to unders
 
 ![image](https://github.com/user-attachments/assets/ba453394-a8af-47d2-a351-f4f0ef1cbb2f)
 
+![image](https://github.com/user-attachments/assets/38bcdad6-a97d-45f5-9611-71dbe9b28a5c)
+
+![image](https://github.com/user-attachments/assets/e23e9102-9a4f-4c53-a1f2-bbb1ce5ed535)
+
+
 
 ## 🚀 Prometheus
 - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
