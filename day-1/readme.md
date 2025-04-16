@@ -50,6 +50,8 @@
 - Observability is a broader concept that includes monitoring as one of its components.
 - monitoring focuses on tracking specific metrics and alerting on predefined conditions
 - observability provides a comprehensive understanding of the system by collecting and analyzing a wider range of data, including **logs, metrics, and traces**.
+- Monitoring = metrics + alerts(via slack,sns) + dashboard(via Grafana)
+![image](https://github.com/user-attachments/assets/d6e9431b-7c20-46fc-b300-c2ca0df8e1aa)
 
 ## 🖥️ What Can Be Monitored?
 - Infrastructure: CPU usage, memory usage, disk I/O, network traffic.
